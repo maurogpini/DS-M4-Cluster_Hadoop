@@ -8,6 +8,9 @@ sudo docker network create --driver=bridge hadoop
 
 ```
 cd DS-M4-Cluster_Hadoop
+
+chmod +x start-container.sh
+
 sudo ./start-container.sh
 ```
 
